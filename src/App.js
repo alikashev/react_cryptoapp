@@ -27,11 +27,11 @@ const App = () => (
         CryptoApp <br/>
         Alle rechten voorbehouden
       </Typography.Title>
-      <space>
+      <Space>
         <Link to="/">Home</Link>
         <Link to="/exchanges">Exchanges</Link>
         <Link to="/news">News</Link>
-      </space>
+      </Space>
     </div>
     </div>
   </div>
